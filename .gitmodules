@@ -1,0 +1,4 @@
+[submodule "path/to/submodule"]
+	path = projects/robot-control-sensor-fusion/src/turtlebot3_simulations
+    url = https://github.com/ROBOTIS-GIT/turtlebot3_simulations
+

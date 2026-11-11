@@ -1,0 +1,6 @@
+# Request
+string namespace
+---
+# Response
+geometry_msgs/PoseArray paths
+bool is_empty

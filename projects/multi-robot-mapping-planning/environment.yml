@@ -1,0 +1,24 @@
+name: ros_noetic
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - numpy
+  - scipy
+  - stable-baselines3
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - gymnasium
+  - scikit-learn
+  - pytorch::pytorch=2.2
+  - opencv
+  - open3d
+  - empy
+  - catkin_pkg
+  - rospkg
+  - rosdep
+  - stable-baselines3
+  - networkx
+  - pip
